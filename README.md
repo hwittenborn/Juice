@@ -1,7 +1,4 @@
-# Juice
-## A port of the Papirus icon theme to iOS
-
----
+# Juice - A port of the Papirus icon theme to iOS
 
 Based on the Papirus icon theme, available [here](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 
