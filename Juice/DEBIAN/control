@@ -1,9 +1,8 @@
-Package: tk.notly.Juice
+Package: me.hunterwittenborn.Juice
 Name: Juice
-Version: 0.1.3.1-git
-Architecture: iphoneos-arm
-Description: A port of the Papirus theme to iOS
-Author: Hunter Wittenborn <hunterwittenborn@notly.tk>
-Maintainer: Hunter Wittenborn <hunterwittenborn@notly.tk>
+Version: 0.1.3-git
 Section: Themes
-Depends: com.spark.snowboard
+Architecture: iphoneos-arm
+Author: Hunter Wittenborn <git@hunterwittenborn.me>
+Maintainer: Hunter Wittenborn <git@hunterwittenborn.me>
+Description: A port of the Papirus icon theme to iOS
