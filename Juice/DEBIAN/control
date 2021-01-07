@@ -1,6 +1,6 @@
 Package: tk.notly.Juice
 Name: Juice
-Version: 0.1.2.1-git
+Version: 0.1.3-git
 Architecture: iphoneos-arm
 Description: A port of the Papirus theme to iOS
 Author: Hunter Wittenborn <hunterwittenborn@notly.tk>
