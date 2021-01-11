@@ -9,7 +9,7 @@ assignees: ''
 
 # Icon Name
 XXX
-#Link or Bundle ID with Picture
+# Link or Bundle ID with Picture
 apps.example.com/xxx
 *or*
 com.example.xxx
