@@ -10,4 +10,4 @@ Available for download in your favorite iOS package manager at [https://repo.hun
 ---
 
 **"I WANT xxx TO BE ADDED PLEASE":**
-Go to the issue page listed [here](https://github.com/hwittenborn/juice/issues/1) and follow the listed instructions.
+Go to the [issue page](https://github.com/hwittenborn/Juice/issues) and create an issue with the Icon Requests template. One icon per issue, search issues before making a new one.
