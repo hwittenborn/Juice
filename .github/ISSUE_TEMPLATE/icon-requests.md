@@ -1,9 +1,9 @@
 ---
 name: Icon Requests
-about: Request an Icon
+about: Request an icon
 title: "[ICON REQUEST]"
 labels: icon-request
-assignees: ''
+assignees: hwittenborn
 
 ---
 
@@ -13,3 +13,5 @@ XXX
 apps.example.com/xxx
 *or*
 com.example.xxx
+
+## ATTACH IMAGE BELOW IF USING BUNDLE ID
