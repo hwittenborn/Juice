@@ -1,4 +1,4 @@
-![demo-image](https://raw.githubusercontent.com/hwittenborn/Juice/main/demo-image.jpeg)
+![demo-image](https://cdn.hunterwittenborn.me/media/image/juice-demo-image.jpeg)
 
 # Juice - A port of the Papirus icon theme to iOS
 
