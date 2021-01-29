@@ -2,6 +2,11 @@
 ---
 Juice has fairly lax guidelines. Following the rules below, it should be fairly easy to port and make icons with relative uniformity.
 
+**Setup:**
+  - Clone the repo
+  - Locate icons and associated files in `Build/Library/Themes/`
+  - Do what you want
+  
 **Prerequisites:**
   - Icons are currently made in GIMP. While not neccessary to do so, it is highly encouraged
     - If making in GIMP, while again not necessary, it is encouraged to attach a finished GIMP project file in the "GIMP" directory
