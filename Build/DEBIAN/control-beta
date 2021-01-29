@@ -1,0 +1,10 @@
+Package: me.hunterwittenborn.juice-beta
+Name: Juice Beta
+Description: A port of the Papirus icon theme to iOS(Beta Build)
+Version: 0.2.4-beta
+Section: Themes
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Conflicts: me.hunterwittenborn.juice
+Author: Hunter Wittenborn <git@hunterwittenborn.me>
+Maintainer: Hunter Wittenborn <git@hunterwittenborn.me>
