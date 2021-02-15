@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.hunterwittenborn.me/media/image/juice-demo-image.jpeg" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/hwittenborn/Juice/main/juice-demo-image.jpeg" alt="preview"/>
 </p>
 
 Based on the Papirus icon theme, available here: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme.
