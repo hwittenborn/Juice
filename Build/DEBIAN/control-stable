@@ -1,7 +1,7 @@
 Package: me.hunterwittenborn.juice
 Name: Juice
 Description: A port of the Papirus icon theme to iOS
-Version: 0.2.5
+Version: 0.2.5-1
 Section: Themes
 Architecture: iphoneos-arm
 Depends: com.anemonetheming.anemone | com.spark.snowboard
