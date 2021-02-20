@@ -12,8 +12,14 @@ VERSION_BETA=$(grep "Version:" Build/DEBIAN/control-beta | awk '{print $2}')
 echo "=== "$PKG" Package Builder ==="
 echo "[] Preparing..."
   rm *.deb &> /dev/null
-echo "[] Please input a version number. The current versions are '"$VERSION_STABLE"' and '"$VERSION_BETA"'."
+  
+if [[ "${1}" == "" ]]
+then
+  echo "[] Please input a version number. The current versions are '"$VERSION_STABLE"' and '"$VERSION_BETA"'."
   read -p ">> " NEW_VERSION
+else
+  export NEW_VERSION=${1}
+fi
 
 echo "[] Setting new version number..."
 echo "$NEW_VERSION" | grep -q beta
